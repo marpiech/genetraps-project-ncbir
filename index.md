@@ -1,6 +1,6 @@
-![](https://raw.githubusercontent.com/marpiech/genetraps-project-ncbir/master/1_white-1.png)  
-![](https://raw.githubusercontent.com/marpiech/genetraps-project-ncbir/master/fundsflag-pl.png)  
-![](https://raw.githubusercontent.com/marpiech/genetraps-project-ncbir/master/ncbr_logo_z_czerwonym_napisem.jpg)  
+# ![](https://raw.githubusercontent.com/marpiech/genetraps-project-ncbir/master/1_white-1.png)  
+# ![](https://raw.githubusercontent.com/marpiech/genetraps-project-ncbir/master/fundsflag-pl.png)  
+# ![](https://raw.githubusercontent.com/marpiech/genetraps-project-ncbir/master/ncbr_logo_z_czerwonym_napisem.jpg)  
 # POIR.01.01.01-00-0213/15
 ## Tytuł projektu
 GeneTraps – system analizy wyników sekwencjonowania genomu dedykowany dla medycyny precyzyjnej
