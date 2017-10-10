@@ -16,8 +16,8 @@ W ramach projektu powstanie system analizy wyników sekwencjonowania genomu czł
 ## Ogłoszenia
 Zapraszamy do współpracy jednostki medyczne i naukowe przy realizacji naszego projektu. W ramach współpracy chcemy wspólnie przetestować skuteczność platformy GeneTraps w diagnostyce chorób i wad genetycznych różnego typu.  
 [Zapytanie ofertowe - usługi chmurowe](http://anakin.intelliseq.pl/owncloud/index.php/s/X0sJR412hBYWPW6)  
-[Oferta pracy - bioinformatyk](http://anakin.intelliseq.pl/owncloud/index.php/s/X0sJR412hBYWPW6)  
-[Oferta pracy - programista Java](http://anakin.intelliseq.pl/owncloud/index.php/s/X0sJR412hBYWPW6)  
+[Oferta pracy - bioinformatyk](http://anakin.intelliseq.pl/owncloud/index.php/s/e16GyeM7QYalcOq)  
+[Oferta pracy - programista Java](http://anakin.intelliseq.pl/owncloud/index.php/s/n2bG7NjC27i8Fgx)  
 [Rozstrzygnięcie zapytania ofertowego](http://anakin.intelliseq.pl/owncloud/index.php/s/RgaCEKF3Ivfk2yX)  
 [Oferta 02 - główny programista i projektant systemu](http://anakin.intelliseq.pl/owncloud/index.php/s/I98rDe5fSnwF1xQ)  
 [Oferta 03 - kierownik projektu](http://anakin.intelliseq.pl/owncloud/index.php/s/b0JkY2KohsGfmer)  
