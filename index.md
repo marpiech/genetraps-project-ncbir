@@ -34,3 +34,4 @@ Zapraszamy do współpracy jednostki medyczne i naukowe przy realizacji naszego 
 [Zapytanie ofertowe 07 - walidacja kliniczna](http://anakin.intelliseq.pl/owncloud/index.php/s/gHtMjIh5VcA5v34)  
 [Rozstrzygnięcie zapytania ofertowego 07](http://anakin.intelliseq.pl/owncloud/index.php/s/vb8D5nYQopq8W0D)  
 [Zapytanie ofertowe 08 - kierownik do spraw klinicznych](http://anakin.intelliseq.pl/owncloud/index.php/s/4yHOOJXU0beP4zi)  
+[Oferta bioinformatyk](http://anakin.intelliseq.pl/owncloud/index.php/s/NQzrnGMnnqEAx00)
